@@ -2,7 +2,7 @@
 
 ### [uduak.me](https://uduak.me)
 
-<img src="./preview.jpg" alt="Preview of Uduak John's Portfolio">
+<img src="./preview.png" alt="Preview of Uduak John's Portfolio">
 
 ### About Me
 
