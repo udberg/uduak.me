@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a Software Developer focused on building high-quality, thoughtful, and intuitive websites and web applications. I’m currently enrolled in a Full-stack web development program remotely and studying through pair-programming with amazing folks all around the world at [Microverse](https://www.microverse.org/)
+I am a Software Developer focused on building high-quality, thoughtful, and intuitive websites and web applications. I’m currently enrolled in a Full-stack web development program remotely and studying through pair-programming with amazing folks all around the world at [Microverse](https://www.microverse.org/)
 
 As a software development student at [Microverse](https://www.microverse.org/), I have had the opportunity to work along-side professionals in notable projects. I value the ideas of hard-work and persistence. These values have aided my career as a developer and have shaped me into the person I am today.
 
